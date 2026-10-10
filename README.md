@@ -8,7 +8,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JiyaSaria/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JiyaGarg0007/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jiyaaggarwal2005@gmail.com)
 
 </div>
@@ -29,7 +29,7 @@
 <br/>
 
 <!-- Real-time dynamic LeetCode statistics card (update username if your LeetCode handle differs) -->
-<a href="https://leetcode.com/u/JiyaSaria/">
+<a href="https://leetcode.com/u/JiyaGarg0007/">
   <img src="https://leetcard.jacoblin.cool/JiyaSaria?theme=dark&font=Ubuntu&ext=contest" alt="Jiya's LeetCode Profile" />
 </a>
 
