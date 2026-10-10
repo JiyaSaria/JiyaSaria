@@ -30,7 +30,7 @@
 
 <!-- Real-time dynamic LeetCode statistics card (update username if your LeetCode handle differs) -->
 <a href="https://leetcode.com/u/JiyaGarg0007/">
-  <img src="https://leetcard.jacoblin.cool/JiyaSaria?theme=dark&font=Ubuntu&ext=contest" alt="Jiya's LeetCode Profile" />
+  <img src="https://leetcard.jacoblin.cool/JiyaGarg0007?theme=dark&font=Ubuntu&ext=contest" alt="Jiya's LeetCode Profile" />
 </a>
 
 </div>
